@@ -28,8 +28,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/lokeshwar777/loki-backend.git
+   cd loki-backend
    ```
 
 2. Install dependencies:
@@ -88,8 +88,8 @@ This project is open for contributions, and your input is highly valued. If you 
 2. Clone the forked repository to your local machine:
 
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/your-username/loki-backend.git
+cd loki-backend
 ```
 
 3. Create a new branch for your contribution:
